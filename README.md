@@ -1,5 +1,5 @@
-# visualize_experience
-Inspired by Data Visualisation. Visualise ones experience rather than words to describe it.
+# explot
+Visualise experience with Python. 
 
 ## TO DO
 1. Visualize skillset with number of years experience
